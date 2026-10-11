@@ -18,3 +18,7 @@ Scrum Master is not a manager. It is a scrum master's job to facllitate communic
 2. How is it going?
 3. Do you need any help or are you blocked in any way?
 
+
+//Assingment Agentic Programming
+Opened up codex on VS and gave it the command of WHAT needs to happen we needed a a way to a way so the user
+couldn't just go into it with no password or username so they have to type in something.  it fixed it with just one line with I though was suspicious but I checked it and it does work I have to put something inside the user and passwords (It doens't work without both being).
